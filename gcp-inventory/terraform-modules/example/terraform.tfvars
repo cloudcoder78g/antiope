@@ -1,3 +1,3 @@
-organization     = "example_org"
-env              = "example_env"
+organization     = "example-org"
+env              = "example-env"
 code_location    = "../../python_code"
